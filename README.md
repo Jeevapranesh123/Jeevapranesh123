@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeevapranesh123
-- 👀 I’m interested in Web Development, Ethical Hacking, CyberSecurity
-- 🌱 I’m currently learning Hacking and Web Development 
-- 💞️ I’m looking to collaborate on Backend Development Projects,API Projects and Cybersecuiryt Projects
+- 👀 I’m interested in Web Development,API Development,Software Development,Socket Programming, Ethical Hacking, CyberSecurity
+- 🌱 I’m currently learning Socket Programming and Real Time Message queuing
+- 💞️ I’m looking to collaborate on Backend Development Projectsand Cybersecuiryt Projects
 - 📫 How to reach me: Drop a mail to me @jpranesh14@gmail.com
 
 <!---
