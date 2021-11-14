@@ -5,7 +5,7 @@
 - 📫 How to reach me: Drop a mail to me @jpranesh14@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeevapranesh123)](https://github.com/Jeevapranesh123)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeevapranesh123&theme=radical)](https://github.com/Jeevapranesh123)
 
 <!---
 Jeevapranesh123/Jeevapranesh123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
