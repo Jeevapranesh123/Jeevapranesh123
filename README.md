@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jeevapranesh123
-- 👀 I’m interested in Web Development,API Development,Software Development,Socket Programming, Ethical Hacking, CyberSecurity
-- 🌱 I’m currently learning Socket Programming and Real Time Message queuing
-- 💞️ I’m looking to collaborate on Backend Development Projectsand Cybersecuiryt Projects
-- 📫 How to reach me: Drop a mail to me @jpranesh14@gmail.com
+- 👀 I’m a Backend Developer and Entrepreneur 
+- 💞️ I am Founder of Zuva Tech Solutions, an IT Solutions and Product Development Company
+- 📫 How to reach me: Drop a mail to me @jpranesh14@gmail.com for all the Personal Queries and Drop a mail to contact@zuvatech.com for Company related queires or projects
 
 [![Jeeva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeevapranesh123&show_icons=true&theme=radical)](https://github.com/Jeevapranesh123)
 
