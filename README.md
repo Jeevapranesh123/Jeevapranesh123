@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeevapranesh123
-- 👀 I’m a Backend Developer and Entrepreneur 
+- 👀 I’m a Backend Engineer and Entrepreneur 
 - 💞️ I am Founder of Zuva Tech Solutions, an IT Solutions and Product Development Company
 - 📫 How to reach me: Drop a mail to me @jpranesh14@gmail.com for all the Personal Queries and Drop a mail to contact@zuvatech.com for Company related queires or projects
 
